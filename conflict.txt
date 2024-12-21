@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 potato
 potato
 potato
@@ -16,7 +15,6 @@ cherry
 cherry
 potato
 potato
-=======
 master
 master
 master
@@ -29,4 +27,3 @@ master
 master
 master
 master
->>>>>>> master
